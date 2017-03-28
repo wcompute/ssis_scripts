@@ -7,7 +7,7 @@ Purpose:
     *** update variable
 
 History:
-    2015-02-27  Tom Hogan       created, based on work done by Jamie Thomson
+    
 -- ================================================================================================
 */
 USE ssisdb;
